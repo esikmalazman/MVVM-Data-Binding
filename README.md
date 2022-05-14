@@ -1,1 +1,1 @@
-This directory contains the starter project for demo 1.# MVVM-Data-Binding
+A demo project that illustrate on how to use MVVM architecture and Native data binding
